@@ -1,4 +1,4 @@
-pub use rrr::Test2;
+pub use rrr::{Test2, do_a_call, get_call_count};
 
 
 pub struct Test {
