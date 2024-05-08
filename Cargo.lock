@@ -18,7 +18,7 @@ dependencies = [
 [[package]]
 name = "rust_lib_test2"
 version = "0.1.0"
-source = "git+https://github.com/amoylan2/rust_lib_test2.git?branch=master#d2f215060df7db3640dd0cbc4747eb9ed2c20dbb"
+source = "git+https://github.com/amoylan2/rust_lib_test2.git?branch=master#b7732073a6efb477e0a792ae84ee6fc2bbb01523"
 dependencies = [
  "lazy_static",
 ]
