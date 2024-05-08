@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+rrr = { git = "https://github.com/amoylan2/rust_lib_test2.git", branch = "master", package = "rust_lib_test2" }

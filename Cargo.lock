@@ -5,3 +5,11 @@ version = 3
 [[package]]
 name = "rust_lib_test"
 version = "0.1.0"
+dependencies = [
+ "rust_lib_test2",
+]
+
+[[package]]
+name = "rust_lib_test2"
+version = "0.1.0"
+source = "git+https://github.com/amoylan2/rust_lib_test2.git?branch=master#9daefb111660ffdd0f1e964b7b1fbbc58d3d2837"

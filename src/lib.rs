@@ -1,3 +1,5 @@
+pub use rrr::Test2;
+
 
 pub struct Test {
     pub key: String,
