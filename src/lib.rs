@@ -1,3 +1,9 @@
+
+pub struct Test {
+    pub key: String,
+    pub value: String,
+}
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
